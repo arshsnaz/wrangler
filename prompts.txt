@@ -1,0 +1,20 @@
+# prompts.txt
+This file contains all the AI prompts used during the development of the Wrangler enhancement assignment for Zeotap.
+
+---
+
+## 🎯 Objective:
+Enhance CDAP Wrangler to support parsing and aggregation of Byte Size and Time Duration units.
+
+---
+
+## 💬 AI Prompts Used:
+
+1. "Explain how to modify the ANTLR grammar to support byte size and time duration parsing."
+2. "Generate Java class to parse '10KB', '1.5MB', '150ms', '2s' into bytes or milliseconds."
+3. "How to implement a new aggregate directive in CDAP Wrangler?"
+4. "JUnit test example for validating byte size and time duration parser classes."
+5. "How to structure a visitor method in an ANTLR-based parser for custom token types?"
+6. "Write a custom directive in Java that aggregates values from rows."
+7. "Create a unit test for a Wrangler directive that sums values and outputs a single result row."
+8. "Help me format a README update describing new token and directive support."
